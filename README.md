@@ -222,4 +222,5 @@ Layered architecture:
 
 MIT License.
 
-**Author:** Lucas Soares
+**Author:** 
+Lucas Soares
